@@ -7,3 +7,4 @@ Possibly relevant links:
 * https://immersion.media.mit.edu
 * https://law.MIT.edu/blockchain
 * http://dazzagreenwood.github.io/e-waffle
+* https://pischonk.github.io/e-waffle/
